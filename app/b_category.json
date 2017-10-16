@@ -1,0 +1,26 @@
+[
+   {
+      "category":"Story",
+      "desc":"Story books",
+      "no_of_books":100,
+      "flag":"Y"
+   },
+   {
+      "category":"Fiction",
+      "desc":"Fiction books",
+      "no_of_books":150,
+      "flag":"Y"
+   },
+   {
+      "category":"Horror Stories",
+      "desc":"Horror Stories books",
+      "no_of_books":50,
+      "flag":"Y"
+   },
+   {
+      "category":"Biography",
+      "desc":"Biography books",
+      "no_of_books":60,
+      "flag":"Y"
+   }
+]

@@ -1,0 +1,13 @@
+{
+   "id":100,
+   "first_name":"Rounak",
+   "last_name":"Saha",
+   "email_id":"contact@rongmz.in",
+   "phone_no":"7278472600",
+   "first_subscription_date":"2017-10-01",
+   "registration_date":"2017-10-01",
+   "date_of_birth":"1990-01-01",
+   "subscription_type":"MEMBER",
+   "expiry_date":"2018-10-01",
+   "status":"A"
+}

@@ -1,0 +1,49 @@
+[
+   {
+      "name":"Sample Audio 1",
+      "audio_url":"http://localhost:3000/audio-sample.mp3",
+      "image_url":"http://localhost:3000/audio-sample.jpg",
+      "flag":"Y",
+      "rating":103,
+      "reviews_count":1200,
+      "desc":"In the years following the success of his novel Dracula, Bram Stoker took on an even more ambitious creative feat: combining mystery, romance, adventure, Gothic atmosphere, and supernatural elements in one gripping tale. The end result of this process of experimentation was Sample Audio. If you’re a fan of Stoker’s fiction or a sucker for classic action-adventure, add this to your must-read list.",
+      "category":"Story",
+      "id":1
+   },
+   {
+      "name":"Sample Audio 2",
+      "author":"Bram Stoker",
+      "audio_url":"http://localhost:3000/audio-sample.mp3",
+      "image_url":"http://localhost:3000/audio-sample.jpg",
+      "flag":"Y",
+      "rating":104,
+      "reviews_count":1200,
+      "desc":"In the years following the success of his novel Dracula, Bram Stoker took on an even more ambitious creative feat: combining mystery, romance, adventure, Gothic atmosphere, and supernatural elements in one gripping tale. The end result of this process of experimentation was Sample Audio. If you’re a fan of Stoker’s fiction or a sucker for classic action-adventure, add this to your must-read list.",
+      "category":"Story",
+      "id":2
+   },
+   {
+      "name":"Sample Audio 3",
+      "author":"Bram Stoker",
+      "audio_url":"http://localhost:3000/stoker-mystery-of-the-sea.mp3",
+      "image_url":"http://localhost:3000/stoker-mystery-of-the-sea.jpg",
+      "flag":"Y",
+      "rating":103,
+      "reviews_count":1200,
+      "desc":"In the years following the success of his novel Dracula, Bram Stoker took on an even more ambitious creative feat: combining mystery, romance, adventure, Gothic atmosphere, and supernatural elements in one gripping tale. The end result of this process of experimentation was Sample Audio. If you’re a fan of Stoker’s fiction or a sucker for classic action-adventure, add this to your must-read list.",
+      "category":"Story",
+      "id":3
+   },
+   {
+      "name":"Sample Audio 4",
+      "author":"Bram Stoker",
+      "audio_url":"http://localhost:3000/stoker-mystery-of-the-sea.mp3",
+      "image_url":"http://localhost:3000/stoker-mystery-of-the-sea.jpg",
+      "flag":"Y",
+      "rating":103,
+      "reviews_count":1200,
+      "desc":"In the years following the success of his novel Dracula, Bram Stoker took on an even more ambitious creative feat: combining mystery, romance, adventure, Gothic atmosphere, and supernatural elements in one gripping tale. The end result of this process of experimentation was Sample Audio. If you’re a fan of Stoker’s fiction or a sucker for classic action-adventure, add this to your must-read list.",
+      "category":"Story",
+      "id":4
+   }
+]
