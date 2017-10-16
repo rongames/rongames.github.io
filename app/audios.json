@@ -1,8 +1,8 @@
 [
    {
       "name":"Sample Audio 1",
-      "audio_url":"http://localhost:3000/audio-sample.mp3",
-      "image_url":"http://localhost:3000/audio-sample.jpg",
+      "audio_url":"https://rongmz.github.io/app/audio-sample.mp3",
+      "image_url":"https://rongmz.github.io/app/audio-sample.jpg",
       "flag":"Y",
       "rating":103,
       "reviews_count":1200,
@@ -13,8 +13,8 @@
    {
       "name":"Sample Audio 2",
       "author":"Bram Stoker",
-      "audio_url":"http://localhost:3000/audio-sample.mp3",
-      "image_url":"http://localhost:3000/audio-sample.jpg",
+      "audio_url":"https://rongmz.github.io/app/audio-sample.mp3",
+      "image_url":"https://rongmz.github.io/app/audio-sample.jpg",
       "flag":"Y",
       "rating":104,
       "reviews_count":1200,
@@ -25,8 +25,8 @@
    {
       "name":"Sample Audio 3",
       "author":"Bram Stoker",
-      "audio_url":"http://localhost:3000/stoker-mystery-of-the-sea.mp3",
-      "image_url":"http://localhost:3000/stoker-mystery-of-the-sea.jpg",
+      "audio_url":"https://rongmz.github.io/app/stoker-mystery-of-the-sea.mp3",
+      "image_url":"https://rongmz.github.io/app/stoker-mystery-of-the-sea.jpg",
       "flag":"Y",
       "rating":103,
       "reviews_count":1200,
@@ -37,8 +37,8 @@
    {
       "name":"Sample Audio 4",
       "author":"Bram Stoker",
-      "audio_url":"http://localhost:3000/stoker-mystery-of-the-sea.mp3",
-      "image_url":"http://localhost:3000/stoker-mystery-of-the-sea.jpg",
+      "audio_url":"https://rongmz.github.io/app/stoker-mystery-of-the-sea.mp3",
+      "image_url":"https://rongmz.github.io/app/stoker-mystery-of-the-sea.jpg",
       "flag":"Y",
       "rating":103,
       "reviews_count":1200,
