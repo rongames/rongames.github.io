@@ -1,0 +1,284 @@
+[
+  {
+    "category": "Story",
+    "id": 1,
+    "books": [
+        {
+          "name":"The Mystery of the Sea 1",
+          "author":"Bram Stoker",
+          "epub_url":"https://rongmz.github.io/app/stoker-mystery-of-the-sea.epub",
+          "image_url":"https://rongmz.github.io/app/stoker-mystery-of-the-sea.jpg",
+          "flag":"Y",
+          "rating":103,
+          "reviews_count":1200,
+          "desc":"In the years following the success of his novel Dracula, Bram Stoker took on an even more ambitious creative feat: combining mystery, romance, adventure, Gothic atmosphere, and supernatural elements in one gripping tale. The end result of this process of experimentation was The Mystery of the Sea. If you’re a fan of Stoker’s fiction or a sucker for classic action-adventure, add this to your must-read list.",
+          "id":1
+        },
+        {
+          "name":"The Mystery of the Sea 2",
+          "author":"Bram Stoker",
+          "epub_url":"https://rongmz.github.io/app/stoker-mystery-of-the-sea.epub",
+          "image_url":"https://rongmz.github.io/app/stoker-mystery-of-the-sea.jpg",
+          "flag":"Y",
+          "rating":104,
+          "reviews_count":1200,
+          "desc":"In the years following the success of his novel Dracula, Bram Stoker took on an even more ambitious creative feat: combining mystery, romance, adventure, Gothic atmosphere, and supernatural elements in one gripping tale. The end result of this process of experimentation was The Mystery of the Sea. If you’re a fan of Stoker’s fiction or a sucker for classic action-adventure, add this to your must-read list.",
+          "id":2
+        },
+        {
+          "name":"The Mystery of the Sea 3",
+          "author":"Bram Stoker",
+          "epub_url":"https://rongmz.github.io/app/stoker-mystery-of-the-sea.epub",
+          "image_url":"https://rongmz.github.io/app/stoker-mystery-of-the-sea.jpg",
+          "flag":"Y",
+          "rating":103,
+          "reviews_count":1200,
+          "desc":"In the years following the success of his novel Dracula, Bram Stoker took on an even more ambitious creative feat: combining mystery, romance, adventure, Gothic atmosphere, and supernatural elements in one gripping tale. The end result of this process of experimentation was The Mystery of the Sea. If you’re a fan of Stoker’s fiction or a sucker for classic action-adventure, add this to your must-read list.",
+          "id":3
+        },
+        {
+          "name":"The Mystery of the Sea 4",
+          "author":"Bram Stoker",
+          "epub_url":"https://rongmz.github.io/app/stoker-mystery-of-the-sea.epub",
+          "image_url":"https://rongmz.github.io/app/stoker-mystery-of-the-sea.jpg",
+          "flag":"Y",
+          "rating":103,
+          "reviews_count":1200,
+          "desc":"In the years following the success of his novel Dracula, Bram Stoker took on an even more ambitious creative feat: combining mystery, romance, adventure, Gothic atmosphere, and supernatural elements in one gripping tale. The end result of this process of experimentation was The Mystery of the Sea. If you’re a fan of Stoker’s fiction or a sucker for classic action-adventure, add this to your must-read list.",
+          "id":4
+        },
+        {
+          "name":"The Mystery of the Sea 5",
+          "author":"Bram Stoker",
+          "epub_url":"https://rongmz.github.io/app/stoker-mystery-of-the-sea.epub",
+          "image_url":"https://rongmz.github.io/app/stoker-mystery-of-the-sea.jpg",
+          "flag":"Y",
+          "rating":103,
+          "reviews_count":1200,
+          "desc":"In the years following the success of his novel Dracula, Bram Stoker took on an even more ambitious creative feat: combining mystery, romance, adventure, Gothic atmosphere, and supernatural elements in one gripping tale. The end result of this process of experimentation was The Mystery of the Sea. If you’re a fan of Stoker’s fiction or a sucker for classic action-adventure, add this to your must-read list.",
+          "id":5
+        },
+        {
+          "name":"The Mystery of the Sea 6",
+          "author":"Bram Stoker",
+          "epub_url":"https://rongmz.github.io/app/stoker-mystery-of-the-sea.epub",
+          "image_url":"https://rongmz.github.io/app/stoker-mystery-of-the-sea.jpg",
+          "flag":"Y",
+          "rating":103,
+          "reviews_count":1200,
+          "desc":"In the years following the success of his novel Dracula, Bram Stoker took on an even more ambitious creative feat: combining mystery, romance, adventure, Gothic atmosphere, and supernatural elements in one gripping tale. The end result of this process of experimentation was The Mystery of the Sea. If you’re a fan of Stoker’s fiction or a sucker for classic action-adventure, add this to your must-read list.",
+          "id":6
+        },
+        {
+          "name":"The Mystery of the Sea 7",
+          "author":"Bram Stoker",
+          "epub_url":"https://rongmz.github.io/app/stoker-mystery-of-the-sea.epub",
+          "image_url":"https://rongmz.github.io/app/stoker-mystery-of-the-sea.jpg",
+          "flag":"Y",
+          "rating":103,
+          "reviews_count":1200,
+          "desc":"In the years following the success of his novel Dracula, Bram Stoker took on an even more ambitious creative feat: combining mystery, romance, adventure, Gothic atmosphere, and supernatural elements in one gripping tale. The end result of this process of experimentation was The Mystery of the Sea. If you’re a fan of Stoker’s fiction or a sucker for classic action-adventure, add this to your must-read list.",
+          "id":7
+        },
+        {
+          "name":"The Mystery of the Sea 8",
+          "author":"Bram Stoker",
+          "epub_url":"https://rongmz.github.io/app/stoker-mystery-of-the-sea.epub",
+          "image_url":"https://rongmz.github.io/app/stoker-mystery-of-the-sea.jpg",
+          "flag":"Y",
+          "rating":103,
+          "reviews_count":1200,
+          "desc":"In the years following the success of his novel Dracula, Bram Stoker took on an even more ambitious creative feat: combining mystery, romance, adventure, Gothic atmosphere, and supernatural elements in one gripping tale. The end result of this process of experimentation was The Mystery of the Sea. If you’re a fan of Stoker’s fiction or a sucker for classic action-adventure, add this to your must-read list.",
+          "id":8
+        }
+    ]
+  },
+  {
+    "category": "Fiction",
+    "id": 2,
+    "books": [
+        {
+          "name":"The Mystery of the Sea 1",
+          "author":"Bram Stoker",
+          "epub_url":"https://rongmz.github.io/app/stoker-mystery-of-the-sea.epub",
+          "image_url":"https://rongmz.github.io/app/stoker-mystery-of-the-sea.jpg",
+          "flag":"Y",
+          "rating":103,
+          "reviews_count":1200,
+          "desc":"In the years following the success of his novel Dracula, Bram Stoker took on an even more ambitious creative feat: combining mystery, romance, adventure, Gothic atmosphere, and supernatural elements in one gripping tale. The end result of this process of experimentation was The Mystery of the Sea. If you’re a fan of Stoker’s fiction or a sucker for classic action-adventure, add this to your must-read list.",
+          "id":1
+        },
+        {
+          "name":"The Mystery of the Sea 2",
+          "author":"Bram Stoker",
+          "epub_url":"https://rongmz.github.io/app/stoker-mystery-of-the-sea.epub",
+          "image_url":"https://rongmz.github.io/app/stoker-mystery-of-the-sea.jpg",
+          "flag":"Y",
+          "rating":104,
+          "reviews_count":1200,
+          "desc":"In the years following the success of his novel Dracula, Bram Stoker took on an even more ambitious creative feat: combining mystery, romance, adventure, Gothic atmosphere, and supernatural elements in one gripping tale. The end result of this process of experimentation was The Mystery of the Sea. If you’re a fan of Stoker’s fiction or a sucker for classic action-adventure, add this to your must-read list.",
+          "id":2
+        },
+        {
+          "name":"The Mystery of the Sea 3",
+          "author":"Bram Stoker",
+          "epub_url":"https://rongmz.github.io/app/stoker-mystery-of-the-sea.epub",
+          "image_url":"https://rongmz.github.io/app/stoker-mystery-of-the-sea.jpg",
+          "flag":"Y",
+          "rating":103,
+          "reviews_count":1200,
+          "desc":"In the years following the success of his novel Dracula, Bram Stoker took on an even more ambitious creative feat: combining mystery, romance, adventure, Gothic atmosphere, and supernatural elements in one gripping tale. The end result of this process of experimentation was The Mystery of the Sea. If you’re a fan of Stoker’s fiction or a sucker for classic action-adventure, add this to your must-read list.",
+          "id":3
+        },
+        {
+          "name":"The Mystery of the Sea 4",
+          "author":"Bram Stoker",
+          "epub_url":"https://rongmz.github.io/app/stoker-mystery-of-the-sea.epub",
+          "image_url":"https://rongmz.github.io/app/stoker-mystery-of-the-sea.jpg",
+          "flag":"Y",
+          "rating":103,
+          "reviews_count":1200,
+          "desc":"In the years following the success of his novel Dracula, Bram Stoker took on an even more ambitious creative feat: combining mystery, romance, adventure, Gothic atmosphere, and supernatural elements in one gripping tale. The end result of this process of experimentation was The Mystery of the Sea. If you’re a fan of Stoker’s fiction or a sucker for classic action-adventure, add this to your must-read list.",
+          "id":4
+        },
+        {
+          "name":"The Mystery of the Sea 5",
+          "author":"Bram Stoker",
+          "epub_url":"https://rongmz.github.io/app/stoker-mystery-of-the-sea.epub",
+          "image_url":"https://rongmz.github.io/app/stoker-mystery-of-the-sea.jpg",
+          "flag":"Y",
+          "rating":103,
+          "reviews_count":1200,
+          "desc":"In the years following the success of his novel Dracula, Bram Stoker took on an even more ambitious creative feat: combining mystery, romance, adventure, Gothic atmosphere, and supernatural elements in one gripping tale. The end result of this process of experimentation was The Mystery of the Sea. If you’re a fan of Stoker’s fiction or a sucker for classic action-adventure, add this to your must-read list.",
+          "id":5
+        },
+        {
+          "name":"The Mystery of the Sea 6",
+          "author":"Bram Stoker",
+          "epub_url":"https://rongmz.github.io/app/stoker-mystery-of-the-sea.epub",
+          "image_url":"https://rongmz.github.io/app/stoker-mystery-of-the-sea.jpg",
+          "flag":"Y",
+          "rating":103,
+          "reviews_count":1200,
+          "desc":"In the years following the success of his novel Dracula, Bram Stoker took on an even more ambitious creative feat: combining mystery, romance, adventure, Gothic atmosphere, and supernatural elements in one gripping tale. The end result of this process of experimentation was The Mystery of the Sea. If you’re a fan of Stoker’s fiction or a sucker for classic action-adventure, add this to your must-read list.",
+          "id":6
+        },
+        {
+          "name":"The Mystery of the Sea 7",
+          "author":"Bram Stoker",
+          "epub_url":"https://rongmz.github.io/app/stoker-mystery-of-the-sea.epub",
+          "image_url":"https://rongmz.github.io/app/stoker-mystery-of-the-sea.jpg",
+          "flag":"Y",
+          "rating":103,
+          "reviews_count":1200,
+          "desc":"In the years following the success of his novel Dracula, Bram Stoker took on an even more ambitious creative feat: combining mystery, romance, adventure, Gothic atmosphere, and supernatural elements in one gripping tale. The end result of this process of experimentation was The Mystery of the Sea. If you’re a fan of Stoker’s fiction or a sucker for classic action-adventure, add this to your must-read list.",
+          "id":7
+        },
+        {
+          "name":"The Mystery of the Sea 8",
+          "author":"Bram Stoker",
+          "epub_url":"https://rongmz.github.io/app/stoker-mystery-of-the-sea.epub",
+          "image_url":"https://rongmz.github.io/app/stoker-mystery-of-the-sea.jpg",
+          "flag":"Y",
+          "rating":103,
+          "reviews_count":1200,
+          "desc":"In the years following the success of his novel Dracula, Bram Stoker took on an even more ambitious creative feat: combining mystery, romance, adventure, Gothic atmosphere, and supernatural elements in one gripping tale. The end result of this process of experimentation was The Mystery of the Sea. If you’re a fan of Stoker’s fiction or a sucker for classic action-adventure, add this to your must-read list.",
+          "id":8
+        }
+    ]
+  },
+  {
+    "category": "Horror Story",
+    "id": 3,
+    "books": [
+        {
+          "name":"The Mystery of the Sea 1",
+          "author":"Bram Stoker",
+          "epub_url":"https://rongmz.github.io/app/stoker-mystery-of-the-sea.epub",
+          "image_url":"https://rongmz.github.io/app/stoker-mystery-of-the-sea.jpg",
+          "flag":"Y",
+          "rating":103,
+          "reviews_count":1200,
+          "desc":"In the years following the success of his novel Dracula, Bram Stoker took on an even more ambitious creative feat: combining mystery, romance, adventure, Gothic atmosphere, and supernatural elements in one gripping tale. The end result of this process of experimentation was The Mystery of the Sea. If you’re a fan of Stoker’s fiction or a sucker for classic action-adventure, add this to your must-read list.",
+          "id":1
+        },
+        {
+          "name":"The Mystery of the Sea 2",
+          "author":"Bram Stoker",
+          "epub_url":"https://rongmz.github.io/app/stoker-mystery-of-the-sea.epub",
+          "image_url":"https://rongmz.github.io/app/stoker-mystery-of-the-sea.jpg",
+          "flag":"Y",
+          "rating":104,
+          "reviews_count":1200,
+          "desc":"In the years following the success of his novel Dracula, Bram Stoker took on an even more ambitious creative feat: combining mystery, romance, adventure, Gothic atmosphere, and supernatural elements in one gripping tale. The end result of this process of experimentation was The Mystery of the Sea. If you’re a fan of Stoker’s fiction or a sucker for classic action-adventure, add this to your must-read list.",
+          "id":2
+        },
+        {
+          "name":"The Mystery of the Sea 3",
+          "author":"Bram Stoker",
+          "epub_url":"https://rongmz.github.io/app/stoker-mystery-of-the-sea.epub",
+          "image_url":"https://rongmz.github.io/app/stoker-mystery-of-the-sea.jpg",
+          "flag":"Y",
+          "rating":103,
+          "reviews_count":1200,
+          "desc":"In the years following the success of his novel Dracula, Bram Stoker took on an even more ambitious creative feat: combining mystery, romance, adventure, Gothic atmosphere, and supernatural elements in one gripping tale. The end result of this process of experimentation was The Mystery of the Sea. If you’re a fan of Stoker’s fiction or a sucker for classic action-adventure, add this to your must-read list.",
+          "id":3
+        },
+        {
+          "name":"The Mystery of the Sea 4",
+          "author":"Bram Stoker",
+          "epub_url":"https://rongmz.github.io/app/stoker-mystery-of-the-sea.epub",
+          "image_url":"https://rongmz.github.io/app/stoker-mystery-of-the-sea.jpg",
+          "flag":"Y",
+          "rating":103,
+          "reviews_count":1200,
+          "desc":"In the years following the success of his novel Dracula, Bram Stoker took on an even more ambitious creative feat: combining mystery, romance, adventure, Gothic atmosphere, and supernatural elements in one gripping tale. The end result of this process of experimentation was The Mystery of the Sea. If you’re a fan of Stoker’s fiction or a sucker for classic action-adventure, add this to your must-read list.",
+          "id":4
+        },
+        {
+          "name":"The Mystery of the Sea 5",
+          "author":"Bram Stoker",
+          "epub_url":"https://rongmz.github.io/app/stoker-mystery-of-the-sea.epub",
+          "image_url":"https://rongmz.github.io/app/stoker-mystery-of-the-sea.jpg",
+          "flag":"Y",
+          "rating":103,
+          "reviews_count":1200,
+          "desc":"In the years following the success of his novel Dracula, Bram Stoker took on an even more ambitious creative feat: combining mystery, romance, adventure, Gothic atmosphere, and supernatural elements in one gripping tale. The end result of this process of experimentation was The Mystery of the Sea. If you’re a fan of Stoker’s fiction or a sucker for classic action-adventure, add this to your must-read list.",
+          "id":5
+        },
+        {
+          "name":"The Mystery of the Sea 6",
+          "author":"Bram Stoker",
+          "epub_url":"https://rongmz.github.io/app/stoker-mystery-of-the-sea.epub",
+          "image_url":"https://rongmz.github.io/app/stoker-mystery-of-the-sea.jpg",
+          "flag":"Y",
+          "rating":103,
+          "reviews_count":1200,
+          "desc":"In the years following the success of his novel Dracula, Bram Stoker took on an even more ambitious creative feat: combining mystery, romance, adventure, Gothic atmosphere, and supernatural elements in one gripping tale. The end result of this process of experimentation was The Mystery of the Sea. If you’re a fan of Stoker’s fiction or a sucker for classic action-adventure, add this to your must-read list.",
+          "id":6
+        },
+        {
+          "name":"The Mystery of the Sea 7",
+          "author":"Bram Stoker",
+          "epub_url":"https://rongmz.github.io/app/stoker-mystery-of-the-sea.epub",
+          "image_url":"https://rongmz.github.io/app/stoker-mystery-of-the-sea.jpg",
+          "flag":"Y",
+          "rating":103,
+          "reviews_count":1200,
+          "desc":"In the years following the success of his novel Dracula, Bram Stoker took on an even more ambitious creative feat: combining mystery, romance, adventure, Gothic atmosphere, and supernatural elements in one gripping tale. The end result of this process of experimentation was The Mystery of the Sea. If you’re a fan of Stoker’s fiction or a sucker for classic action-adventure, add this to your must-read list.",
+          "id":7
+        },
+        {
+          "name":"The Mystery of the Sea 8",
+          "author":"Bram Stoker",
+          "epub_url":"https://rongmz.github.io/app/stoker-mystery-of-the-sea.epub",
+          "image_url":"https://rongmz.github.io/app/stoker-mystery-of-the-sea.jpg",
+          "flag":"Y",
+          "rating":103,
+          "reviews_count":1200,
+          "desc":"In the years following the success of his novel Dracula, Bram Stoker took on an even more ambitious creative feat: combining mystery, romance, adventure, Gothic atmosphere, and supernatural elements in one gripping tale. The end result of this process of experimentation was The Mystery of the Sea. If you’re a fan of Stoker’s fiction or a sucker for classic action-adventure, add this to your must-read list.",
+          "id":8
+        }
+    ]
+  }
+]

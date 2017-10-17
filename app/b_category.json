@@ -3,24 +3,28 @@
       "category":"Story",
       "desc":"Story books",
       "no_of_books":100,
-      "flag":"Y"
+      "flag":"Y",
+      "id": 1
    },
    {
       "category":"Fiction",
       "desc":"Fiction books",
       "no_of_books":150,
-      "flag":"Y"
+      "flag":"Y",
+      "id": 2
    },
    {
       "category":"Horror Stories",
       "desc":"Horror Stories books",
       "no_of_books":50,
-      "flag":"Y"
+      "flag":"Y",
+      "id": 3
    },
    {
       "category":"Biography",
       "desc":"Biography books",
       "no_of_books":60,
-      "flag":"Y"
+      "flag":"Y",
+      "id": 4
    }
 ]
