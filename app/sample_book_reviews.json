@@ -1,0 +1,35 @@
+{
+   "book_id": 1,
+   "reviews": [
+      {
+         "user_name": "Rounak Saha",
+         "user_rating": 4,
+         "review_date": "2017-10-01",
+         "review_details": "This book is really awesome. Just recommend it."
+      },
+      {
+         "user_name": "Anindya Guin",
+         "user_rating": 5,
+         "review_date": "2016-10-01",
+         "review_details": "Good."
+      },
+      {
+         "user_name": "Pranay Banarjee",
+         "user_rating": 3,
+         "review_date": "2017-02-01",
+         "review_details": "Not so good. Ok types."
+      },
+      {
+         "user_name": "Ankita Paul",
+         "user_rating": 4,
+         "review_date": "2017-10-01",
+         "review_details": "Ok. Read it throughly."
+      },
+      {
+         "user_name": "Abhishek Das",
+         "user_rating": 5,
+         "review_date": "2017-10-01",
+         "review_details": "This book is really good."
+      }
+   ]
+}
