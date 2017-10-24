@@ -9,7 +9,11 @@
       "reviews_count":1200,
       "desc":"In the years following the success of his novel Dracula, Bram Stoker took on an even more ambitious creative feat: combining mystery, romance, adventure, Gothic atmosphere, and supernatural elements in one gripping tale. The end result of this process of experimentation was The Mystery of the Sea. If you’re a fan of Stoker’s fiction or a sucker for classic action-adventure, add this to your must-read list.",
       "category":"Story",
-      "id":1
+      "id":1,
+      "publisher":"MGH Publications",
+      "publish_date":"2016-12-10",
+      "avg_rating":4.5,
+      "for_purchase": false
    },
    {
       "name":"The Mystery of the Sea 2",
@@ -24,7 +28,11 @@
       "id":2,
       "price":120,
       "discount":10,
-      "discount_desc":"Limited period offer."
+      "discount_desc":"Limited period offer.",
+      "publisher":"MGH Publications",
+      "publish_date":"2016-12-10",
+      "avg_rating":4.5,
+      "for_purchase": true
    },
    {
       "name":"The Mystery of the Sea 3",
@@ -37,7 +45,11 @@
       "desc":"In the years following the success of his novel Dracula, Bram Stoker took on an even more ambitious creative feat: combining mystery, romance, adventure, Gothic atmosphere, and supernatural elements in one gripping tale. The end result of this process of experimentation was The Mystery of the Sea. If you’re a fan of Stoker’s fiction or a sucker for classic action-adventure, add this to your must-read list.",
       "category":"Story",
       "id":3,
-      "price":100
+      "price":100,
+      "publisher":"MGH Publications",
+      "publish_date":"2016-12-10",
+      "avg_rating":4.5,
+      "for_purchase": true
    },
    {
       "name":"The Mystery of the Sea 4",
@@ -50,7 +62,11 @@
       "desc":"In the years following the success of his novel Dracula, Bram Stoker took on an even more ambitious creative feat: combining mystery, romance, adventure, Gothic atmosphere, and supernatural elements in one gripping tale. The end result of this process of experimentation was The Mystery of the Sea. If you’re a fan of Stoker’s fiction or a sucker for classic action-adventure, add this to your must-read list.",
       "category":"Story",
       "id":4,
-      "price":100
+      "price":100,
+      "publisher":"MGH Publications",
+      "publish_date":"2016-12-10",
+      "avg_rating":4.5,
+      "for_purchase": true
    },
    {
       "name":"The Mystery of the Sea 5",
@@ -62,7 +78,11 @@
       "reviews_count":1200,
       "desc":"In the years following the success of his novel Dracula, Bram Stoker took on an even more ambitious creative feat: combining mystery, romance, adventure, Gothic atmosphere, and supernatural elements in one gripping tale. The end result of this process of experimentation was The Mystery of the Sea. If you’re a fan of Stoker’s fiction or a sucker for classic action-adventure, add this to your must-read list.",
       "category":"Story",
-      "id":5
+      "id":5,
+      "publisher":"MGH Publications",
+      "publish_date":"2016-12-10",
+      "avg_rating":4.5,
+      "for_purchase": false
    },
    {
       "name":"The Mystery of the Sea 6",
@@ -75,7 +95,11 @@
       "desc":"In the years following the success of his novel Dracula, Bram Stoker took on an even more ambitious creative feat: combining mystery, romance, adventure, Gothic atmosphere, and supernatural elements in one gripping tale. The end result of this process of experimentation was The Mystery of the Sea. If you’re a fan of Stoker’s fiction or a sucker for classic action-adventure, add this to your must-read list.",
       "category":"Story",
       "id":6,
-      "price":110
+      "price":110,
+      "publisher":"MGH Publications",
+      "publish_date":"2016-12-10",
+      "avg_rating":4.5,
+      "for_purchase": true
    },
    {
       "name":"The Mystery of the Sea 7",
@@ -87,7 +111,11 @@
       "reviews_count":1200,
       "desc":"In the years following the success of his novel Dracula, Bram Stoker took on an even more ambitious creative feat: combining mystery, romance, adventure, Gothic atmosphere, and supernatural elements in one gripping tale. The end result of this process of experimentation was The Mystery of the Sea. If you’re a fan of Stoker’s fiction or a sucker for classic action-adventure, add this to your must-read list.",
       "category":"Story",
-      "id":7
+      "id":7,
+      "publisher":"MGH Publications",
+      "publish_date":"2016-12-10",
+      "avg_rating":4.5,
+      "for_purchase": false
    },
    {
       "name":"The Mystery of the Sea 8",
@@ -99,6 +127,10 @@
       "reviews_count":1200,
       "desc":"In the years following the success of his novel Dracula, Bram Stoker took on an even more ambitious creative feat: combining mystery, romance, adventure, Gothic atmosphere, and supernatural elements in one gripping tale. The end result of this process of experimentation was The Mystery of the Sea. If you’re a fan of Stoker’s fiction or a sucker for classic action-adventure, add this to your must-read list.",
       "category":"Story",
-      "id":8
+      "id":8,
+      "publisher":"MGH Publications",
+      "publish_date":"2016-12-10",
+      "avg_rating":4.5,
+      "for_purchase": false
    }
 ]
