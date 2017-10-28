@@ -3,28 +3,24 @@
       "name":"Story",
       "no_of_books":100,
       "flag":"Y",
-      "id": 1,
-      "image_url":"https://rongmz.github.io/app/category-banner-1.jpg"
+      "id": 1
    },
    {
       "name":"Love Story",
       "no_of_books":150,
       "flag":"Y",
-      "id": 2,
-      "image_url":"https://rongmz.github.io/app/category-banner-1.jpg"
+      "id": 2
    },
    {
       "name":"Bon Voyage Stories",
       "no_of_books":50,
       "flag":"Y",
-      "id": 3,
-      "image_url":"https://rongmz.github.io/app/category-banner-2.jpg"
+      "id": 3
    },
    {
       "name":"Biography",
       "no_of_books":60,
       "flag":"Y",
-      "id": 4,
-      "image_url":"https://rongmz.github.io/app/category-banner-2.jpg"
+      "id": 4
    }
 ]

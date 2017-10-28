@@ -12,7 +12,8 @@
           "publisher":"MGH Publications",
           "publish_date":"2016-12-10",
           "avg_rating":4.5,
-          "for_purchase": false
+          "for_purchase": false,
+          "category":"Story"
         },
         {
           "name":"The Mystery of the Sea 2",
@@ -27,7 +28,8 @@
           "publisher":"MGH Publications",
           "publish_date":"2016-12-10",
           "avg_rating":4.5,
-          "for_purchase": false
+          "for_purchase": false,
+          "category":"Story"
         },
         {
           "name":"The Mystery of the Sea 3",
@@ -42,7 +44,8 @@
           "publisher":"MGH Publications",
           "publish_date":"2016-12-10",
           "avg_rating":4.5,
-          "for_purchase": false
+          "for_purchase": false,
+          "category":"Story"
         },
         {
           "name":"The Mystery of the Sea 4",
@@ -57,7 +60,8 @@
           "publisher":"MGH Publications",
           "publish_date":"2016-12-10",
           "avg_rating":4.5,
-          "for_purchase": false
+          "for_purchase": false,
+          "category":"Story"
         },
         {
           "name":"The Mystery of the Sea 5",
@@ -72,7 +76,8 @@
           "publisher":"MGH Publications",
           "publish_date":"2016-12-10",
           "avg_rating":4.5,
-          "for_purchase": false
+          "for_purchase": false,
+          "category":"Story"
         },
         {
           "name":"The Mystery of the Sea 6",
@@ -87,7 +92,8 @@
           "publisher":"MGH Publications",
           "publish_date":"2016-12-10",
           "avg_rating":4.5,
-          "for_purchase": false
+          "for_purchase": false,
+          "category":"Story"
         },
         {
           "name":"The Mystery of the Sea 7",
@@ -102,7 +108,8 @@
           "publisher":"MGH Publications",
           "publish_date":"2016-12-10",
           "avg_rating":4.5,
-          "for_purchase": false
+          "for_purchase": false,
+          "category":"Story"
         },
         {
           "name":"The Mystery of the Sea 8",
@@ -117,6 +124,7 @@
           "publisher":"MGH Publications",
           "publish_date":"2016-12-10",
           "avg_rating":4.5,
-          "for_purchase": false
+          "for_purchase": false,
+          "category":"Story"
         }
     ]
