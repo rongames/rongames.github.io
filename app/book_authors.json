@@ -1,0 +1,38 @@
+[
+   {
+      "name":"Arundhati Roy",
+      "no_of_books":10,
+      "image_url":"https://rongmz.github.io/app/Arundhati-Roy.jpg",
+      "id": 1
+   },
+   {
+      "name":"R. K. Narayan",
+      "no_of_books":10,
+      "image_url":"https://rongmz.github.io/app/R-K-Narayan.jpg",
+      "id": 2
+   },
+   {
+      "name":"Ruskin Bond",
+      "no_of_books":10,
+      "image_url":"https://rongmz.github.io/app/Ruskin-Bond.jpg",
+      "id": 3
+   },
+   {
+      "name":"Chetan Bhagat",
+      "no_of_books":10,
+      "image_url":"https://rongmz.github.io/app/Chetan-Bhagat.jpg",
+      "id": 4
+   },
+   {
+      "name":"A. P. J. Abdul Kalam",
+      "no_of_books":10,
+      "image_url":"https://rongmz.github.io/app/A-P-J-Abdul-Kalam.jpg",
+      "id": 5
+   },
+   {
+      "name":"Sudha Murthy",
+      "no_of_books":10,
+      "image_url":"https://rongmz.github.io/app/Sudha-Murthy.jpg",
+      "id": 6
+   }
+]
