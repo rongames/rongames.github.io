@@ -11,6 +11,17 @@
       "id":1
    },
    {
+      "story_name":"The Happy Monster",
+      "audio":"http://ia801604.us.archive.org/0/items/78_the-happy-monster_chubby-jackson-and-his-orchestra-jackson-bauer_gbia0005336b/The%20Happy%20Monster%20-%20Chubby%20Jackson%20and%20his%20Orchestra.mp3",
+      "photo":"http://ia801604.us.archive.org/0/items/78_the-happy-monster_chubby-jackson-and-his-orchestra-jackson-bauer_gbia0005336b/78_the-happy-monster_chubby-jackson-and-his-orchestra-jackson-bauer_gbia0005336b_itemimage.jpg",
+      "premium":"Y",
+      "rating":4.5,
+      "play_count": 100,
+      "description":"Digitized at 78 revolutions per minute. Four stylii were used to transfer this record. They are 2.0 mil truncated conical, truncated conical, 2.8 mil truncated conical, 3.3 mil truncated conical. These were recorded flat and then also equalized with Turnover: 400.0, Rolloff: -12.0.",
+      "credits":"<b>Performer:</b> Chubby Jackson and his Orchestra<br><b>Writer:</b> Jackson; Bauer",
+      "id":5
+   },
+   {
       "story_name":"The Red-Headed League",
       "audio":"http://ia600305.us.archive.org/17/items/adventures_holmes/adventureholmes_02_doyle.mp3",
       "photo":"http://ia800305.us.archive.org/17/items/adventures_holmes/Adventures_of_Sherlock_Holmes_1403.jpg",
